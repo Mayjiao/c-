@@ -1,6 +1,5 @@
 #include <iostream>
 #include <list>
-#include <functional>
 using namespace std;
 using std::list;
 template<typename Iter>
