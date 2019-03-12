@@ -23,3 +23,4 @@ int main()
 
 //编译如下
 // g++ -std=c++11 -pthread thread.cpp -o test
+//会输出不同的结果
