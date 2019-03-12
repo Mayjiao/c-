@@ -20,3 +20,6 @@ int main()
     getchar();
     return 0;
 }
+
+//编译如下
+// g++ -std=c++11 -pthread thread.cpp -o test
